@@ -5,8 +5,8 @@
   <img src="./assets/personal-logo.png" heigh="150" width="150">
 
   <strong>Full-Stack Developer in Toronto, ON.</strong>
-  <div style="justify-content: center; display: flex; margin: 0 auto;">Currently working at&nbsp;
-  <a href="https://github.com/sharechest" style="display: flex;">@sharechest&nbsp;<img src="https://d3v0px0pttie1i.cloudfront.net/uploads/team/avatar/163102/621d5240.jpg" width="25" height="25" style="border-radius: 50%; margin-left: 6px"></a>&nbsp; <strong>|</strong> &nbsp; evan.almeidaf@gmail.com</div>
+  <div style="justify-content: center; display: flex; margin: 0 auto;">Currently working at
+  <a href="https://github.com/klarna" style="display: flex;">@klarna&nbsp;<img src="https://avatars.githubusercontent.com/u/394540?s=200&v=4" width="25" height="25" style="border-radius: 50%; margin-left: 6px"></a>&nbsp; <strong>|</strong> &nbsp; evan.almeidaf@gmail.com</div>
 
 </div>
 
