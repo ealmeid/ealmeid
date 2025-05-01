@@ -1,12 +1,14 @@
 <div align="center">
 
-  ### 👋 Hey, I'm Evan.
+### 👋 Hey, I'm Evan.
 
   <img src="./assets/personal-logo.png" heigh="150" width="150">
 
-  <strong>Full-Stack Developer in Toronto, ON.</strong>
-  <div style="justify-content: center; display: flex; margin: 0 auto;">Currently working at
-  <a href="https://github.com/klarna" style="display: flex;">@klarna&nbsp;<img src="https://avatars.githubusercontent.com/u/394540?s=200&v=4" width="25" height="25" style="border-radius: 50%; margin-left: 6px"></a>&nbsp; <strong>|</strong> &nbsp; evan.almeidaf@gmail.com</div>
+<strong>Full-Stack Developer in Toronto, ON.</strong>
+
+  <div style="justify-content: center; display: flex; margin: 0 auto; flex-direction: column;">
+  <div style="display: flex; text-align: center; justify-content: center;">Currently working at&nbsp;
+  <a href="https://mycroft.io/" style="display: flex">@mycroft&nbsp;<img src="./assets/mycroft-logo-shield.png" width="20" height="20"></a></div> <br/> evan.almeidaf@gmail.com</div>
 
 </div>
 
@@ -38,7 +40,6 @@
     <h3>🌱  Here's what I'm learning: </h3>
     <!-- <hr /> -->
   </div>
-
 
   <div align="center">
     <br />
